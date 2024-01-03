@@ -1,0 +1,8 @@
+instale o 
+npm install mysql2.
+npm instal sequelize
+npm instal sequelize sequelize-cli path 
+Para começar a rodar o sequelize 
+npx sequelize cli init
+Para abrir o mysql 
+mysql -u root -p 
