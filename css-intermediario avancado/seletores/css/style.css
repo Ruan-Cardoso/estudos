@@ -1,0 +1,28 @@
+
+/* *{
+seleciona todos elementos do html
+}
+*/
+
+
+/*seletor de filho
+e usado para selecionar um elemto (X) que e filho de um elemento (Y) 
+*/
+X>Y {
+  color: red;
+  text-decoration: none;
+}
+li>a {
+  color: red;
+  text-decoration: none;
+}
+
+/*
+seleciona o primenro elemento y depois de um elemento x
+*/
+X+Y{
+  display: flex;
+}
+div+h1{
+  color: green;
+}

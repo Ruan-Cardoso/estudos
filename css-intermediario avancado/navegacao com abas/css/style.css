@@ -1,0 +1,22 @@
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  width: 820px;
+}
+
+ul li{
+  float: left;
+  background: url(../img/aba-direita.png) no-repeat top right;
+  
+ ;
+}
+
+li a{
+  display: block;
+  padding: 0 2em;
+  line-height: 3em;
+  text-decoration: none;
+ 
+  background: url(../img/aba-esquerda.png) no-repeat ;
+}
