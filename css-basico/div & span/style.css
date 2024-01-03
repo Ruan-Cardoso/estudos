@@ -1,0 +1,17 @@
+#topo{
+  background: blue;
+}
+#conteudo{
+  background: orangered;
+}
+.produto{
+  background: green;
+  margin: 10px;
+ 
+}
+#pink{
+  background: pink;
+}
+#other{
+  background-color: aqua;
+}
